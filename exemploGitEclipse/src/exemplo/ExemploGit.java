@@ -3,6 +3,7 @@ package exemplo;
 public class ExemploGit {
 
 	public static void main(String[] args) {
-		System.out.println("�la git");
+		//Alterado para coreção de escrita
+		System.out.println("Olá git");
 	}
 }
