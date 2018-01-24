@@ -3,7 +3,8 @@ package exemplo;
 public class ExemploGit {
 
 	public static void main(String[] args) {
-		//Alterado para coreÃ§Ã£o de escrita
-		System.out.println("OlÃ¡ git");
+		//Alterado para coreção de escrita
+		//Modificação do Eclipse
+		System.out.println("Olá git");
 	}
 }
